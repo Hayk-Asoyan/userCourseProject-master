@@ -15,7 +15,7 @@ export function createUserInfoElem(userData, mainContent) {
 
 content.style.cssText = `
     
-background-color: " #eaeaea";
+    background-color:  rgb(234, 234, 234);
     width: 400px;
     height: auto;
     border: 1px double ;
